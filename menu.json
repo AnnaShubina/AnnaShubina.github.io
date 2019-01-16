@@ -1,5 +1,5 @@
 {
-   "menu_items" : [
+   [
      {"href": "/catalogue/", "title": "Каталог товаров", "submenu":
      [
        {"href": "#", "title": "Автомодели"},
