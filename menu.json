@@ -20,7 +20,7 @@
        {"href": "#", "title": "Самовывоз"}
      ]},
    
-     {"href": "/service_centre/", "title": "Гарантия"},
+     {"href": "/service/", "title": "Гарантия"},
    
      {"href": "/contacts/", "title": "Контакты", "submenu":
      [
