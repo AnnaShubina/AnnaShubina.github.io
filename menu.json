@@ -1,7 +1,32 @@
 {
    "menu_items" : [
-	   {"href" : "/", "title" : "Главная"},
-	   {"href" : "/catalogue/", "title" : "Каталог"},
-	   {"href" : "/gallery/", "title" : "Галерея"}
+     {"href": "/catalogue/", "title": "Каталог товаров", "submenu":
+     [
+       {"href": "#", "title": "Автомодели"},
+       {"href": "#", "title": "Коптеры"},
+       {"href": "#", "title": "Вертолёты"},
+       {"href": "#", "title": "Самолёты"},
+       {"href": "#", "title": "Судомодели"},
+       {"href": "#", "title": "Танки"},
+       {"href": "#", "title": "Запчасти"}
+     ]},
+   
+     {"href": "/payment/", "title": "Оплата"},
+   
+     {"href": "/delivery/", "title": "Доставка", "submenu":
+     [
+       {"href": "#", "title": "Стандартная доставка"},
+       {"href": "#", "title": "Экспресс доставка"},
+       {"href": "#", "title": "Самовывоз"}
+     ]},
+   
+     {"href": "/service_centre/", "title": "Гарантия"},
+   
+     {"href": "/contacts/", "title": "Контакты", "submenu":
+     [
+       {"href": "#", "title": "Отдел продаж"},
+       {"href": "#", "title": "Магазины и пункты выдачи"},
+       {"href": "#", "title": "Центральный офис"}
+     ]}
    ]
 }
