@@ -1,9 +1,9 @@
 {
   "gallery" : [
-    {"src": "https://annashubina.github.io/img/img1.LawBb.jpg", "alt": "Тигр"},
-    {"src": "https://annashubina.github.io/img/img2.z9QeH.jpg", "alt": "Тигр"},
-    {"src": "https://annashubina.github.io/img/img3.gqw6s.jpg", "alt": "Тигр"},
-    {"src": "https://annashubina.github.io/img/img4.tIoDO.jpg", "alt": "Тигр"},
-    {"src": "https://annashubina.github.io/img/img5.bC3Zh.jpg", "alt": "Тигр"}
+    {"src": "https://annashubina.github.io/img/img1.LawBb.jpg", "href": "https://annashubina.github.io/img/full/img1.jpg", "alt": "Тигр"},
+    {"src": "https://annashubina.github.io/img/img2.z9QeH.jpg", "href": "https://annashubina.github.io/img/full/img2.jpg", "alt": "Тигр"},
+    {"src": "https://annashubina.github.io/img/img3.gqw6s.jpg", "href": "https://annashubina.github.io/img/full/img3.jpg", "alt": "Тигр"},
+    {"src": "https://annashubina.github.io/img/img4.tIoDO.jpg", "href": "https://annashubina.github.io/img/full/img4.jpg", "alt": "Тигр"},
+    {"src": "https://annashubina.github.io/img/img5.bC3Zh.jpg", "href": "https://annashubina.github.io/img/full/img5.jpg", "alt": "Тигр"}
   ]
 }
