@@ -1,5 +1,13 @@
 {
   "result": 1,
-  "products": [
+  "basket": [
+     {
+         "id_product": 1,
+         "price": 100
+     },
+     {
+         "id_product": 2,
+         "price": 200
+     }
   ]
 }
