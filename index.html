@@ -134,7 +134,7 @@
                 <div class="form form--top">
                   <p class="form__header">Get in touch!</p>
                   <p class="form__text form__text--top">Do you want to get started with your progect and you need my help, feel free to contact me</p>
-                  <form class="form__field" action="#" method="post">
+                  <form action="#" method="post">
                     <div>
                       <input type="text" id="name" name="name" placeholder="Your Name">
                       <label for="name">Your name</label>
@@ -197,6 +197,37 @@
           </div>
         </div>
       </footer>
+    </div>
+    <div class="popup">
+      <div class="popup__overlay"></div>
+      <div class="popup__content">
+        <div class="popup__header">Order a project</div>
+        <form class="form" action="#" method="post">
+          <div>
+            <input type="text" id="name-popup" name="name" placeholder="Your Name">
+            <label for="name-popup">Your name</label>
+          </div>
+          <div>
+            <input type="tel" id="phone-popup" name="phone" placeholder="Phone">
+            <label for="phone-popup">Phone</label>
+          </div>
+          <div>
+            <input type="email" id="email-popup" name="email" placeholder="Email">
+            <label for="email-popup">Email</label>
+          </div>
+          <div>
+            <textarea name="message" cols="30" rows="10" id="message-popup" placeholder="Task description..."></textarea>
+            <label for="message-popup">Task description...</label>
+          </div>
+          <div class="form__check form__check--top">
+            <input type="checkbox" name="accept" id="accept-popup">
+            <label for="accept-popup">I hereby agree to the Terms of processing of my personal data.</label>
+          </div>
+          <div class="form__btn">
+            <input class="form__submit form__submit--top form__submit--width" type="submit" id="submit-popup" name="submit" value="Sent a form" disabled>
+          </div>
+        </form>
+      </div>
     </div>
     <script src="js/lib/jquery-3.3.1.min.js"></script>
     <script src="js/lib/mixitup.min.js"></script>
